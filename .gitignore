@@ -2,3 +2,9 @@
 obj/
 
 .config/
+
+bin/
+*.fs.js
+node_modules/
+
+.idea/

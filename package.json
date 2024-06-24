@@ -1,0 +1,23 @@
+{
+  "name": "vite-toastr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Program.fs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "vite": "^5.3.1"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "toastr": "^2.1.4",
+    "use-sync-external-store": "^1.2.2"
+  }
+}

@@ -1,7 +1,4 @@
-
 obj/
-
-.config/
 
 bin/
 *.fs.js
